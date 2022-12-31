@@ -1,0 +1,7 @@
+langchain==0.0.48
+openai
+requests
+dagster
+dagit
+transformers
+faiss-cpu
